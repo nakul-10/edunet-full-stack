@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+export default NotFound;};  );    </>      </div>        <div>Page Not found</div>        <h1>404</h1>        </Link>          <p>go back</p>        <Link to="/" style={{ fontSize: '1.5rem', color: 'darkblue' }}>      <div className='errorSection'>    <>  return (const NotFound = () => {import { Link } from 'react-router-dom';import React from 'react';
